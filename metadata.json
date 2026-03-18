@@ -1,0 +1,5 @@
+{
+  "name": "Minesweeper Pro",
+  "description": "A beautiful, modern Minesweeper game with flagging and chording support.",
+  "requestFramePermissions": []
+}
